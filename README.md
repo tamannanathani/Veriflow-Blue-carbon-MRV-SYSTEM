@@ -43,44 +43,15 @@ A robust MRV system enables project developers to:
 | **Below-ground biomass** | Root systems and rhizome analysis |
 | **Soil carbon** | Core sampling, bulk density analysis, carbon fraction testing |
 
-### 2. Remote Sensing & Technology
 
-- **LiDAR (Light Detection and Ranging)** – Measures tree biomass without cutting
-- **Satellite imagery** – High-resolution ecosystem mapping
-- **Drone surveillance** – Real-time verification and anomaly detection
-- **Machine learning** – Pattern recognition and predictive analytics
 
-### 3. Baseline Establishment
+### 2. Baseline Establishment
 
 A credible baseline requires:
 - Accurate ecosystem distribution maps (species groups, density classes, health conditions)
 - Historical trend analysis (10-20 years)
 - Stratified field sampling
 - Risk assessment and permanence analysis
-
-### 4. Verification Framework
-
-Key verification criteria:
-- **Additionality** – Carbon removal would not have occurred without intervention
-- **Permanence** – Long-term carbon storage assurance
-- **Leakage prevention** – No displacement of emissions to other areas
-- **Community validation** – Local governance and traditional user rights
-
----
-
-## 🌍 Regional Initiative: Caribbean & Latin America
-
-The **Regional Blue Carbon MRV Mechanism** is coordinated by the **University of the West Indies St Augustine Centre for Innovation and Entrepreneurship (UWI StACIE)** , administered by the **Inter-American Development Bank (IDB)** , and financed by the **UK Department for Environment, Food and Rural Affairs (DEFRA) Blue Carbon Fund**.
-
-**Participating countries:** Trinidad and Tobago, Jamaica, Suriname, Panama, Colombia
-
-**Key partners:**
-- INVEMAR (Colombia's Institute for Marine and Coastal Research)
-- UWI SODECO (Jamaica)
-- Audubon (Panama)
-- Smithsonian Tropical Research Institute (Chile)
-
----
 
 ## 🚀 Technical Approaches
 
